@@ -1,5 +1,5 @@
 Burstbyte Resolusi
-- Buat aplikasi web
 - Buat bisnis aplikasi
 - Implementasi RPA
 - Implementasi AI
+- Implementasi IOT
